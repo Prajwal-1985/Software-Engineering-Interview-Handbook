@@ -1,0 +1,15 @@
+# Java
+*.class
+
+# C/C++
+*.exe
+*.out
+*.o
+*.obj
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
