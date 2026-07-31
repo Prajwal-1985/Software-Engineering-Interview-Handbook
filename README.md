@@ -76,16 +76,16 @@ Software-Engineering-Interview-Handbook
 
 | Chapter | Topic | Status |
 |----------|--------|--------|
-| 001 | Two Sum | ✅ |
-| 002 | Longest Substring Without Repeating Characters | ⏳ |
-| 003 | Reverse Linked List | ⏳ |
-| 004 | Valid Parentheses | ⏳ |
-| 005 | Maximum Depth of Binary Tree | ⏳ |
-| 006 | Number of Islands | ⏳ |
-| 007 | House Robber | ⏳ |
-| 008 | Binary Search | ⏳ |
-| 009 | JWT Authentication | ⏳ |
-| 010 | Linear Regression | ⏳ |
+| 01 | Two Sum | ✅ |
+| 02 | Longest Substring Without Repeating Characters | ⏳ |
+| 03 | Reverse Linked List | ⏳ |
+| 04 | Valid Parentheses | ⏳ |
+| 05 | Maximum Depth of Binary Tree | ⏳ |
+| 06 | Number of Islands | ⏳ |
+| 07 | House Robber | ⏳ |
+| 08 | Binary Search | ⏳ |
+| 09 | JWT Authentication | ⏳ |
+| 10 | Linear Regression | ⏳ |
 
 ---
 
