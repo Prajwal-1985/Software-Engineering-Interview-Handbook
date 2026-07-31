@@ -6,9 +6,9 @@
 
 A comprehensive collection of coding interview problems, detailed explanations, and multi-language solutions covering **C, C++, Java, Python, Data Structures & Algorithms, SQL, Full Stack Development, and AI/ML**.
 
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/Software-Engineering-Interview-Handbook)
-![GitHub repo size](https://img.shields.io/github/repo-size/YOUR_USERNAME/Software-Engineering-Interview-Handbook)
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/Software-Engineering-Interview-Handbook?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/Prajwal-1985/Software-Engineering-Interview-Handbook)
+![GitHub repo size](https://img.shields.io/github/repo-size/Prajwal-1985/Software-Engineering-Interview-Handbook)
+![GitHub stars](https://img.shields.io/github/stars/Prajwal-1985/Software-Engineering-Interview-Handbook?style=social)
 
 </div>
 
