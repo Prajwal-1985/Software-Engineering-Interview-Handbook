@@ -1,4 +1,4 @@
-# 📌 001 — Two Sum
+# 📌 01 — Two Sum
 
 ## Difficulty
 
